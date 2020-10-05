@@ -7,3 +7,5 @@ My name is Ryan Morrissey and I'm a technical pre-sales manager at a large softw
 - 💻 I’m currently working on re-documenting my Project Euler solutions from 10 years ago in Python (math is hard)
 - 🌱 I’m currently learning about OAuth2.0 for a new API endpoint at work
 - 🧰 Outside of tech, I'm continuing to teach myself woodworking and wood joinery
+
+[![Ryan's github stats](https://github-readme-stats.vercel.app/api?username=23maverick23&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
